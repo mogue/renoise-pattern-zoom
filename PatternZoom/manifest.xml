@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool>
+  <ApiVersion>3</ApiVersion>
+  <Id>com.mogue.PatternZoom</Id>
+  <Version>0.5</Version>
+  <Name>Pattern Zoom</Name>
+  <Author>mogue</Author>
+  <Description>Increase the resolution of your song. Multiplies the LPB, Einstein style! It is highly recommended that you backup your xrns file before running this tool. Thanks to beatslaughter for the original script.</Description>
+  <Category>Pattern Editor</Category>
+</RenoiseScriptingTool>
